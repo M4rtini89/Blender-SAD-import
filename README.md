@@ -1,4 +1,4 @@
 Blender_SAD_import
 ==================
 
-Addon for importing SAD data and plotting points in blender
+Addon for importing Selected Area Diffraction data and plotting points in blender
